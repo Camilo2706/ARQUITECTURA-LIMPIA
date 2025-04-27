@@ -1,0 +1,4 @@
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfoInputs.cache
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.AssemblyInfo.cs
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.Entities\obj\Debug\net8.0\NorthWind.Entities.csproj.CoreCompileInputs.cache

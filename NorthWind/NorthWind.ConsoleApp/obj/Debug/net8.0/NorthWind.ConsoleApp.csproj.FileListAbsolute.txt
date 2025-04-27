@@ -1,0 +1,5 @@
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.csproj.AssemblyReference.cache
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.AssemblyInfoInputs.cache
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.AssemblyInfo.cs
+D:\Académico\S6\ARQUITECTURA DE SOFTWARE\CLEAN ARCHITECTURE\NorthWind\NorthWind.ConsoleApp\obj\Debug\net8.0\NorthWind.ConsoleApp.csproj.CoreCompileInputs.cache
